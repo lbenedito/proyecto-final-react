@@ -1,8 +1,6 @@
-.logo{
-  width: 150px;
-}
-
-.carro{
-  width: 20px;
-  background-color: transparent;
-}
+@import url(../src/assets/css/Basic.css);
+@import url(../src/assets/css/Nav-Bar.css);
+@import url(../src/assets/css/ItemListContainer.css);
+@import url(../src/assets/css/Footer.css);
+@import url(../src/assets/css/Filter.css);
+@import url(../src/assets/css/Carrito.css);

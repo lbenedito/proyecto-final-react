@@ -1,0 +1,1 @@
+Ese es un proyecto qu estoy armando con REACT JS para CoderHouse. Se trata de un e-commerce de velas artesanales creadas con cera de soja.  
